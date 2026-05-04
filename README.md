@@ -11,7 +11,7 @@
 
 `Building scalable systems & shipping AI-powered tools`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353&labelColor=161b22&color=161b22)]([https://yourportfolio.dev](https://www.kckishan.com.np/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353&labelColor=161b22&color=161b22)]((https://www.kckishan.com.np/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353&labelColor=161b22&color=161b22)]([https://linkedin.com/in/kishankc](https://www.linkedin.com/in/kishan-kc19/))
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353&labelColor=161b22&color=161b22)](mailto:contact@kckishan.com.np)
 
