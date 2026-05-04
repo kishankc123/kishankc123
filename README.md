@@ -11,9 +11,9 @@
 
 `Building scalable systems & shipping AI-powered tools`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353&labelColor=161b22&color=161b22)](https://yourportfolio.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353&labelColor=161b22&color=161b22)](https://linkedin.com/in/kishankc)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353&labelColor=161b22&color=161b22)](mailto:kishan.kc.cs@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353&labelColor=161b22&color=161b22)]([https://yourportfolio.dev](https://www.kckishan.com.np/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353&labelColor=161b22&color=161b22)]([https://linkedin.com/in/kishankc](https://www.linkedin.com/in/kishan-kc19/))
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353&labelColor=161b22&color=161b22)](mailto:contact@kckishan.com.np)
 
 </div>
 
@@ -23,12 +23,12 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **[⌥ WeCureIt](https://github.com/kishankc/wecureit)** | Concurrency-safe clinical scheduling system with 2FA, RBAC, and encrypted patient data management. | `Next.js` `TypeScript` `Prisma` `PostgreSQL` |
-| **[⌥ MovieLens Recommender](https://github.com/kishankc/movielens-recommender)** | LightGCN model with BPR loss achieving **HitRate@10 of 0.63**, enhanced with genre-based re-ranking. | `Python` `PyTorch` `LightGCN` |
-| **[⌥ AI Video Summarizer](https://github.com/kishankc/ai-video-summarizer)** | GPT-powered platform generating timestamped summaries and quizzes from 100+ chunk lecture videos. | `Flask` `GPT API` `Vue.js` `OpenCV` |
-| **[⌥ System Simulator](https://github.com/kishankc/system-simulator)** | Full-system simulator modeling CPU execution, memory management, and I/O with a custom assembler. | `Java` |
+| **[⌥ WeCureIt](https://we-cure-it2-v2-la2w6k8qb-kishans-projects-3ea8dea8.vercel.app/)** | Concurrency-safe clinical scheduling system with 2FA, RBAC, and encrypted patient data management. | `Next.js` `TypeScript` `Prisma` `PostgreSQL` |
+| **[⌥ MovieLens Recommender](https://github.com/kishankc123/Advanced_Machine_Learning/blob/main/MovieLens100k.ipynb)** | LightGCN model with BPR loss achieving **HitRate@10 of 0.63**, enhanced with genre-based re-ranking. | `Python` `PyTorch` `LightGCN` |
+| **[⌥ AI Video Summarizer](https://github.com/kishankc123/AI-Assisted-Learning)** | GPT-powered platform generating timestamped summaries and quizzes from 100+ chunk lecture videos. | `Flask` `GPT API` `Vue.js` `OpenCV` |
+| **[⌥ System Simulator](https://github.com/kishankc123/C6461-Assembler-Simulator)** | Full-system simulator modeling CPU execution, memory management, and I/O with a custom assembler. | `Java` |
 
-> 📌 *See all → [github.com/kishankc?tab=repositories](https://github.com/kishankc)*
+>  *See all → [github.com/kishankc?tab=repositories](https://github.com/kishankc123)*
 
 ---
 
