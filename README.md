@@ -9,7 +9,7 @@
 
 **Full-Stack Engineer · ML Practitioner · Open Source Contributor**
 
-`// building scalable systems & shipping AI-powered tools @ GWU`
+`Building scalable systems & shipping AI-powered tools`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=39d353&labelColor=161b22&color=161b22)](https://yourportfolio.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353&labelColor=161b22&color=161b22)](https://linkedin.com/in/kishankc)
@@ -19,7 +19,7 @@
 
 ---
 
-## `// featured projects`
+## `Projects`
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -32,7 +32,7 @@
 
 ---
 
-## `// tech stack`
+## `Tech stack`
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-0d4429?style=flat-square&logo=react&logoColor=39d353)
@@ -62,7 +62,7 @@
 
 ---
 
-## `// experience`
+## `Experience`
 
 > **Beehive Technologies** — *Software Engineer*
 > Multi-tenant RBAC platform with GraphQL & Next.js · **~30% load performance gain** via React Query caching · automated CI/CD with Jest + GitHub Actions
@@ -75,12 +75,12 @@
 
 ---
 
-## `// about me`
+## `About me`
 
-- 🎓 M.S. Computer Science @ **George Washington University** (May 2026)
-- 🔭 Working on **AI-assisted tooling & scalable full-stack systems**
-- 🤖 Daily-driving **Cursor, Copilot & Gemini** to ship faster without cutting corners
-- 💬 Ask me about **React architecture, LLM integrations, or recommender systems**
+- M.S. Computer Science @ **George Washington University** (May 2026)
+- Working on **AI-assisted tooling & scalable full-stack systems**
+- Daily-driving **Cursor, Copilot & Gemini** to ship faster without cutting corners
+- Ask me about **React architecture, LLM integrations, or recommender systems**
 
 ---
 
